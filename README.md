@@ -41,6 +41,8 @@ Interview project template - FOREX Calculator
   - Use a closure/lambda to simulate API call for calculated  
     - Returned value - static is enough, e.g 12.34
 
+- View allows saving of new currency pair
+
 ## General Information
 - On start of app, app retrieves a defined list of currencies
   - API call can be simulated with a closure/lambda
