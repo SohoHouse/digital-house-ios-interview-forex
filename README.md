@@ -46,26 +46,26 @@ Interview project template - FOREX Calculator
   - API call can be simulated with a closure/lambda
 
 ## Key Words
-Currency - USD / GBP / EUR / etc
-Currency pairs - USD : GBP / GBP : USD / EUR : GBP / etc
-Value - 100 / 100.2 / 100.20 / 100.03 / etc 
+- Currency - USD / GBP / EUR / etc
+- Currency pairs - USD : GBP / GBP : USD / EUR : GBP / etc
+- Value - 100 / 100.2 / 100.20 / 100.03 / etc 
 
 # FOR INTERVIEWER ONLY
 
-What patterns/ways are used to communicate between views
+- What patterns/ways are used to communicate between views
 
-What patterns/ways are used to separate models, views, logic
+- What patterns/ways are used to separate models, views, logic
 
-What patterns/ways are used for some kind of reactiveness 
+- What patterns/ways are used for some kind of reactiveness 
 
-Lead a discussion about networking → [persistence] → in-memory data
+- Lead a discussion about networking → [persistence] → in-memory data
 
-Notice if generics are used / mentioned
+- Notice if generics are used / mentioned
 
-Protocol oriented + generics?
+- Protocol oriented + generics?
 
-Lead discussions about possible packaging and versioning
+- Lead discussions about possible packaging and versioning
 
-Keep an open mind regarding techniques and help the dev reach the goal the way they feel most comfortable with
+- Keep an open mind regarding techniques and help the dev reach the goal the way they feel most comfortable with
 
-Allow candidate to search “on-the-line” for whatever needed
+- Allow candidate to search “on-the-line” for whatever needed
