@@ -15,6 +15,7 @@
 		A0CA4CA82507E34700BD0696 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0CA4CA62507E34700BD0696 /* LaunchScreen.storyboard */; };
 		A0CA4CB32507E34700BD0696 /* forexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0CA4CB22507E34700BD0696 /* forexTests.swift */; };
 		A0CA4CBE2507E34700BD0696 /* forexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0CA4CBD2507E34700BD0696 /* forexUITests.swift */; };
+		A0F654E0250BC20400DD1D16 /* DetailView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0F654DF250BC20400DD1D16 /* DetailView.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A0CA4CB92507E34700BD0696 /* forexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = forexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0CA4CBD2507E34700BD0696 /* forexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = forexUITests.swift; sourceTree = "<group>"; };
 		A0CA4CBF2507E34700BD0696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0F654DF250BC20400DD1D16 /* DetailView.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DetailView.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A0CA4C982507E34400BD0696 /* AppDelegate.swift */,
 				A0CA4C9C2507E34400BD0696 /* ViewController.swift */,
 				A0CA4C9E2507E34400BD0696 /* Main.storyboard */,
+				A0F654DF250BC20400DD1D16 /* DetailView.storyboard */,
 				A0CA4CA42507E34700BD0696 /* Assets.xcassets */,
 				A0CA4CA62507E34700BD0696 /* LaunchScreen.storyboard */,
 				A0CA4CA92507E34700BD0696 /* Info.plist */,
@@ -234,6 +237,7 @@
 			files = (
 				A0CA4CA82507E34700BD0696 /* LaunchScreen.storyboard in Resources */,
 				A0CA4CA52507E34700BD0696 /* Assets.xcassets in Resources */,
+				A0F654E0250BC20400DD1D16 /* DetailView.storyboard in Resources */,
 				A0CA4CA02507E34400BD0696 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
